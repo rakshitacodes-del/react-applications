@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.counter-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.counter-box {
+  background-color: #f5f5f5;
+  width: 320px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.counter-title {
+  margin-bottom: 20px;
+}
+
+.counter-btn {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.counter-btn:hover {
+  background-color: #0056b3;
+}
