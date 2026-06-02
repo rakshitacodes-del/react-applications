@@ -38,8 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rakshitacodes-del.github.io/react-applications",
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  }
+  "homepage": "https://rakshitacodes-del.github.io/react-applications"
 }
